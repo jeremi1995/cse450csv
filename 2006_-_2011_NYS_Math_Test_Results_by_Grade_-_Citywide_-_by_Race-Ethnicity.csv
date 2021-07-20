@@ -1,4 +1,4 @@
-Grade,Year,Number Tested,Mean Scale Score,Level 1 #,Level 1 %,Level 2 #,Level 2 %,Level 3 #,Level 3 %,Level 4 #,Level 4 %,Level 3+4 #,Level 3+4 %,Category
+Grade,Year,Number Tested,Mean Scale Score,Level1#,Level1%,Level2#,Level2%,Level3#,Level3%,Level4#,Level4%,Level3+4#,Level3+4%,Category
 3,2006,9768,700,243,2.5,543,5.6,4128,42.3,4854,49.7,8982,92,Asian
 4,2006,9973,699,294,2.9,600,6,4245,42.6,4834,48.5,9079,91,Asian
 5,2006,9852,691,369,3.7,907,9.2,4379,44.4,4197,42.6,8576,87,Asian
